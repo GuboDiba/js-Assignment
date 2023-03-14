@@ -1,14 +1,21 @@
 .body{
-    /* background-color: rgb(199, 198, 198); */
+    background-color:lightgray;
 }
 .container{
     float: right;
-    width: 300px;
+    width: 400px;
     height: 500px;
     background-color: rgb(209, 11, 11);
-    border-radius: 350px / 250px 0px 0px 750px;
+    border-radius: 350px / 150px 0px 0px 750px;
+    display: flex;
 
 }
+.login{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
 .nav{
     display: flex;
     list-style: none;
@@ -17,6 +24,8 @@
 .quick{
     display: flex;
 }
+
+
 .fix{
     
     margin: 9% 0% 0% 4% ;
@@ -39,7 +48,7 @@
     width: 90%;
     height: 90%;
     margin-top: 10%;
-    margin-left: 20%;
+    margin-left: 60%;
 
 }
 #best{
@@ -51,6 +60,7 @@
     margin-left: 15%;
     margin-right: 15%;
     gap: 2%;
+    
 }
 #vn{
     background-color: red;
@@ -76,9 +86,17 @@
 #puma{
     width: 60%;
     height: 90%;
-    
 }
+.pmu{
 
+    background-image: linear-gradient(to bottom,lightblue,purple);
+}
+.nke{
+    background-image: linear-gradient(to bottom,lightblue,darkred);
+}
+.adii{
+    background-image: linear-gradient(to bottom,lightblue,darkred);
+}
 #pa{
     margin-top: 8%;
     
@@ -106,9 +124,12 @@ height: 90%;
     margin-top: 8%;
 }
 #mwk{
-    /* margin-left: 40%; */
-    gap: 2%;
+    margin-left: 13%;
+
     display: flex;
+}
+#mns{
+    color: red;
 }
 #gg{
     width: 80%;
@@ -155,6 +176,7 @@ height: 90%;
     justify-content: space-between;
    /* box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19); */
     gap: 3%;
+    margin-top: 3%;
 } 
 .wshoe{
     display: flex;
@@ -185,6 +207,10 @@ height: 90%;
 #nw{
     background-color: red;
 }
+/* .true{
+    float: right;
+    display: flex;
+} */
 
 
 #pt{
@@ -195,7 +221,7 @@ height: 90%;
 #new{
     text-align: center;
     padding-bottom: 5%;
-    margin-top: 10%;
+    margin-top: 4%;
 }
 #offer{
     color: red;
@@ -224,6 +250,16 @@ height: 90%;
     text-align: center;
 
 }
+#see{
+    margin-left: 50%;
+    margin-top: 3%;
+    padding: 1%;
+    color: red;
+    border-color: red;
+}
+.email{
+    padding: 10%;
+}
 .footer{
     display: flex;
     justify-content: space-between;
@@ -243,3 +279,220 @@ height: 90%;
 .right{
     background-color: rgb(226, 110, 110);
 }
+
+.secpg{
+    float: left;
+    background-color: red;
+    width: 300px;
+    height: 650px;
+    border-radius: 1550px/0px 1250px 4550px 1500px;
+    
+
+} 
+.airforce{
+    display: flex;
+    
+}
+.trehome{
+    display: flex;
+    justify-content: space-between;
+}
+.tre{
+    display: flex;
+    margin-right: 100px;
+    color: black;
+    
+
+}
+#up{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 2px 7px;
+    height: 70%;
+    border-radius: 10%;
+}
+.true{
+    list-style: none;
+    margin-right: 40%;
+    display: flex;
+}
+#p360{
+    width: 120%;
+    height: 80%;
+    margin-top: 10%;
+    margin-left: -30%;
+    padding-bottom: 6%;
+
+    background-color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.nam{
+    display: flex;
+    
+    
+}
+.adik{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    position: relative;
+    justify-content: space-between;
+   /* box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19); */
+    gap: 3%;
+} 
+#cat{
+    width: 90%;
+    height: 70%;
+    transform: rotate(360deg);
+}
+#kkk{
+    width: 80%;
+    height: 70%;
+    transform: rotate(360deg);
+
+}
+.eat{
+    background-color: white;
+    padding: 4%;
+}
+#kgg{
+    width: 90%;
+    height: 70%;
+    transform: rotate(360deg);
+
+
+}
+.koko{
+    background-color: white;
+    padding: 4%;
+
+}
+#ggg{
+    width: 90%;
+    height: 70%;
+    transform: rotate(360deg);
+   
+
+}
+.kog{
+    background-color: white;
+    padding: 4%;
+}
+.trend{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-left: 10%;
+    margin-right: 10;
+   
+}
+
+.tact{
+    display: flex;
+    
+}
+.trend li {
+    margin-left: 80px;
+    margin-top: -13%;
+}
+#mencol{
+    color: red;
+}
+#off{
+    color: red;
+}
+#lowb{
+    width: 30%;
+    height: 10%;
+    margin-left: -25%;
+
+}
+#lowc{
+    width: 30%;
+    height: 10%;
+    margin-left: 4%;
+
+
+}
+#lowd{
+    width: 30%;
+    height: 10%;
+    margin-left: 4%;
+
+}
+#size{
+    color: red;
+}
+#sss{
+    background-color: red;
+    padding: 4%;
+    border-radius: 50%;
+}
+#order{
+    padding: 5%;
+}
+#add{
+    padding: 5%;
+    background-color: red;
+}
+#simi{
+    text-align: center;
+    margin-top: 10%;
+}
+.fa{
+    float: right;
+}
+.sh4{
+    background-color: white;
+    padding: 4%;
+}
+.google{
+    background-color: black;
+    color: white;
+}
+.apple{
+    background-color: black;
+    color: white;
+}
+.rem{
+    width: 40%;
+}
+.min{
+    
+}
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    margin: 0c;
+    padding: 0;
+  
+
+}
+
+.lago{
+    display:grid;
+    grid-template-columns: repeat(1,1fr);
+}
+@media only screen and (max-width:1046px){
+
+
+.quick{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+ }
+@media only screen and (max-width:1046px){
+    .fix{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    .agee{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+
+
+    }
+
+ }
