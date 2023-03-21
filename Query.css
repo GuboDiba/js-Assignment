@@ -1,0 +1,266 @@
+
+ /* responsive */
+ @media only screen and (max-width:780px){
+
+    .container{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        float: right;
+    }
+    .third{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+        
+    }
+    .treno{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+
+
+    }
+    .hitru{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+        margin-right: 80%;
+        
+    }
+    .running{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+
+    }
+    .adik{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+
+
+    }
+    .adik{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+
+
+
+    }
+    .lorem{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+
+     }
+     #see{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        margin-top: 40%;
+     }
+     .new{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+     }
+
+    .test{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .footer{
+    
+        display: grid;
+        grid-template-columns: repeat(5,1fr);
+    }
+    .trehome{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .secpg{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    .airforce{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .adik{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+    }
+    .blwh{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .ipsum{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .loem{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+
+ }
+
+ /* iphone SE  */
+@media only screen and (max-width:375px){
+    .container{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .third{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .treno{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+
+
+    }
+    .hitru{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+        margin-right: 100%;
+        
+    }
+    .running{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    .adik{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+
+
+    }
+    .adik{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+
+
+
+    }
+    .footer{ 
+     display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 280%;
+    }
+    .trehome{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .secpg{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    .airforce{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .adik{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .blwh{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .ipsum{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .loem{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+
+ }
+
+ /* Nest Hub Max */
+ @media only screen and (max-width:1280px){
+    .container{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .third{
+        display: block;
+        grid-template-columns: repeat(2,1fr);
+        
+    }
+    .treno{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+
+
+    }
+    .hitru{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+        margin-right: 90%;
+        
+    }
+    .running{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+
+    }
+    .adik{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+
+
+    }
+    .adik{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+
+
+
+    }
+    .lorem{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+
+     }
+
+    .test{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .footer{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .trehome{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .secpg{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    .airforce{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .adik{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+    }
+    .blwh{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .ipsum{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .loem{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+
+ }
+
+ 
+ 

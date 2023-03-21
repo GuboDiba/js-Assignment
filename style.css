@@ -7,7 +7,7 @@
     height: 500px;
     background-color: rgb(209, 11, 11);
     border-radius: 350px / 150px 0px 0px 750px;
-    display: flex;
+    /* display: flex; */
 
 }
 .login{
@@ -20,6 +20,7 @@
     display: flex;
     list-style: none;
     justify-content: space-between;
+
 }
 .quick{
     display: flex;
@@ -230,13 +231,49 @@ height: 90%;
     display: flex;
     margin: 6%;
 }
+#say{
+    width: 160%;
+    font-size: 260%;
+}
+.wps{
+    /* padding-left: 0%; */
+    width: 40%;
+}
+.sua{
+    margin-left: 30%;
+    width: 100%;
+    padding-right: 10%;
+
+}
 .suada{
+    font-size: 80%;
     margin-left: 26%;
+    border-top: none;
+    width: 80%;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    border-radius: 5%;
+    
+    
+}
+.kashan{
+    margin-left: 40%;
+    border: solid rgb(154, 151, 151);
+    padding: 2%;
+    margin-top: -6%;
+    border-radius: 5%;
+    border-top: none;
+    border-top-right-radius: 15%;
+    border-top-left-radius:25% ;
+    width: 75%;
+    
+
 }
 #hph{
     width: 20%;
     height: 30%;
     border-radius: 50%;
+    margin-top: -8%;
+    margin-left: -8%;
 }
 #monies{
     color: rgb(237, 73, 73);
@@ -301,6 +338,7 @@ height: 90%;
     display: flex;
     margin-right: 100px;
     color: black;
+    margin-top: 10%;
     
 
 }
@@ -470,6 +508,7 @@ body{
 
 }
 
+/* 
 .lago{
     display:grid;
     grid-template-columns: repeat(1,1fr);
@@ -495,4 +534,173 @@ body{
 
     }
 
+ } */
+
+ .third{
+    display: flex;
+    margin-left: 6%;
+    margin-right: 6%;
  }
+ .otln{
+    display: flex;
+    list-style: none;
+    gap: 2em;
+    /* margin-left: 5% */
+     
+ }
+ 
+ .fafa{
+    display: flex;
+    list-style: none;
+    margin-left: 100%;
+    gap: 2em;
+ }
+ #abtus{
+    margin-left: 50%;
+ }
+ .lasty{
+    float: right;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(209, 11, 11);
+    border-radius: 850px / 10px 0px 0px 900px;
+    
+
+ }
+
+ #blwh{
+    height: 60%;
+    width: 100%;
+    border-radius: 10%;
+ }
+ .blwh{
+    display: flex;
+    margin-left: 10%;
+    
+ }
+ .stor{
+    margin-left: 3%;
+    font-size: 170%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -3%;
+
+    
+ }
+ #seem{
+    margin-top: 6%;
+    margin-left: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: red;
+    border-color: red;
+    border-radius: 8%;
+    
+ }
+ #vis{
+    margin-top: -20%;
+    margin-left: 7%;
+ }
+ .ipsum{
+    display: flex;
+    margin-left: 6%;
+    /* margin-top: -25%; */
+ }
+ .amet{
+    font-size: 170%;
+    font-family: 'Times New Roman', Times, serif;
+    
+ }
+ #moese{
+
+    margin-top: 6%;
+    margin-left: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: red;
+    border-color: red;
+    border-radius: 8%;
+ }
+ #yellow{
+    width: 110%;
+    height: 90%;
+    margin-left: 2%;
+    border-radius: 10%;
+ }
+ .loem{
+    display: flex;
+    margin-left: 7%;
+ }
+ #app{
+    width: 80%;
+    height: 100%;
+    border-radius: 10%;
+ }
+ #approach{
+    margin-left: 55%;
+    
+ }
+ .dolor{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -8%;
+    margin-top: 2%;
+    
+ }
+ #hvq{
+    margin-left: 30%;
+ }
+ .last{
+    margin-left: 30%;
+ }
+ 
+ .laast{
+    float: right;
+    width: 250px;
+    height: 600px;
+    background-color: rgb(209, 11, 11);
+    border-radius: 350px / 200px 0px 0px 900px;
+    display: flex;
+
+ }
+ #dot{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: white;
+ }
+ #dot1{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: red;
+
+ }
+ .doot{
+    display: flex;
+ }
+ .text{
+    background-color: white;
+    padding: 20px;
+    padding-right: 20px;
+    margin-right: 55%;
+    border-radius: 15px;
+ }
+ .text5{
+    background-color: white;
+    padding: 20px;
+    padding-right: 20px;
+    margin-right: 55%;
+    border-radius: 15px;
+    padding-bottom: 15%;
+ }
+ #sub{
+    margin-left: 40%;
+    padding: 2%;
+    border-radius: 10%;
+    background-color: red;
+ }
+ 
