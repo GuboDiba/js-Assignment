@@ -1,5 +1,17 @@
 .body{
     background-color:lightgray;
+    width: 100%;
+}
+.bb{
+
+    background-color:lightgray;
+    
+}
+.b{
+    background-color:lightgray;
+}
+.bo{
+    background-color:lightgray;
 }
 .container{
     float: right;
@@ -540,7 +552,14 @@ body{
     display: flex;
     margin-left: 6%;
     margin-right: 6%;
+    
  }
+ li,a{
+    color: black;
+    list-style-type: none;
+
+ }
+ 
  .otln{
     display: flex;
     list-style: none;
@@ -665,6 +684,17 @@ body{
     border-radius: 350px / 200px 0px 0px 900px;
     display: flex;
 
+ }
+ .contact{
+
+        float: right;
+        width: 250px;
+        height: 600px;
+        background-color: rgb(209, 11, 11);
+        border-radius: 350px / 200px 0px 0px 900px;
+        display: flex;
+    
+     
  }
  #dot{
     width: 15px;

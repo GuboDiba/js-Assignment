@@ -1,15 +1,20 @@
 
  /* responsive */
  @media only screen and (max-width:780px){
+    .body{
+        width: 100%;
+    }
 
     .container{
         display: grid;
         grid-template-columns: repeat(1,1fr);
-        float: right;
+
+        
     }
     .third{
         display: block;
         grid-template-columns: repeat(1,1fr);
+        width: 97%;
         
     }
     .treno{
@@ -17,6 +22,11 @@
         grid-template-columns: repeat(1,1fr);
 
 
+    }
+    .sua{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+        margin-left:-22%;
     }
     .hitru{
         display: block;
@@ -100,13 +110,18 @@
 
  /* iphone SE  */
 @media only screen and (max-width:375px){
+    .body{
+        /* width: 20%;  */
+    }
     .container{
-        display: grid;
-        grid-template-columns: repeat(1,1fr);
+        display: none;
+        /* grid-template-columns: repeat(1,1fr); */
+      
     }
     .third{
         display: grid;
         grid-template-columns: repeat(1,1fr);
+        width: 25%;
     }
     .treno{
         display: block;
@@ -131,6 +146,11 @@
 
 
     }
+    /* .sua{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+        margin-left:-30%;
+    } */
     .adik{
         display: grid;
         grid-template-columns: repeat(2,1fr);
@@ -198,6 +218,11 @@
         margin-right: 90%;
         
     }
+    /* .sua{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+        margin-left:-30%;
+    } */
     .running{
         display: grid;
         grid-template-columns: repeat(3,1fr);
@@ -239,6 +264,11 @@
         grid-template-columns: repeat(1,1fr);
 
     }
+    /* .sua{
+        display: block;
+        grid-template-columns: repeat(1,1fr);
+        margin-left:-30%;
+    } */
     .airforce{
         display: grid;
         grid-template-columns: repeat(2,1fr);
@@ -262,5 +292,4 @@
 
  }
 
- 
  
